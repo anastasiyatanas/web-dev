@@ -1,0 +1,34 @@
+.free-lance{
+    padding:100px;
+    background-color: black;
+    margin:20px;
+    top: 60px;
+    position: relative;
+    color:white;
+}
+.text{
+    background-color: grey;
+}
+.bootcamp{
+    padding:50px;
+    background-color: black;
+    margin:20px;
+    top: 60px;
+    position: relative;
+    color:white;
+}
+#free-lance{
+    padding:80px;
+    background-color: grey;
+
+}
+.word{
+    position: absolute;
+}
+#mainNav{
+    background-color: black;
+    color:white;
+}
+.nav-link{
+    color:white;
+}
