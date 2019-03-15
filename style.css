@@ -1,34 +1,76 @@
 .free-lance{
-    padding:100px;
-    background-color: black;
+    /* padding:50px; */
+    background-image: url("img/astronomy-constellation-dark-998641.jpg");
     margin:20px;
     top: 60px;
-    position: relative;
+    /* position: absolute; */
     color:white;
+    border: 2px solid black;
+    border-radius: 5px;
 }
-.text{
-    background-color: grey;
+
+.text-white{
+    text-align: center;
 }
+
 .bootcamp{
-    padding:50px;
-    background-color: black;
+    /* padding:50px; */
+    background-image: url("img/astronomy-constellation-dark-998641.jpg");
     margin:20px;
     top: 60px;
-    position: relative;
+    /* position: absolute; */
     color:white;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.img-fluid{
+    border: 2px solid black;
+    border-radius: 5px;
 }
 #free-lance{
     padding:80px;
-    background-color: grey;
+    padding-bottom: 10px;
+}
 
+#bootcamp{
+    padding:80px;
+    padding-top: 50px;
 }
-.word{
-    position: absolute;
-}
+
+
 #mainNav{
     background-color: black;
     color:white;
+    height: 65px;
+    
 }
+.name{
+    padding:265px;
+}
+
+.word{
+    border-bottom-color:black;
+    padding-bottom: 10px;
+    border-bottom-width: 2px;
+}
+
 .nav-link{
     color:white;
 }
+body {
+    background-image: url("img/abstract-attractive-backdrop-988872.jpg");
+  }
+
+.text{ 
+    padding: 10px;
+    text-align: center;
+}
+
+.masthead {
+    height: 100vh;
+    min-height: 500px;
+    /* background-image: url("img/abstract-attractive-backdrop-988872.jpg"); */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
